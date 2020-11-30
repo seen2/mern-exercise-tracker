@@ -4,6 +4,16 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+In the backend directory, you can run:
+
+### `node server`
+
+Runs the backend sever.
+
+
+The react page will be connected with this in backend.
+You will also see any lint errors or some backend in the console.
+
 In the project directory, you can run:
 
 ### `npm start`
